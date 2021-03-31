@@ -18,7 +18,7 @@ namespace ConsoleApp1
             else if (name == "Sanwar") Console.WriteLine("You are an AGM!");
             else if (name == "Shahin") Console.WriteLine("You are a Driver!");
             else if (name == "Jalal") Console.WriteLine("You are an MLSS!");
-            else if (name == "Khaled") Console.WriteLine("You are an DM!");
+            else if (name == "Khaled") Console.WriteLine("You are a DM!");
             else if (name == "Rafiqul" || name == "Devashis") Console.WriteLine("You are a JO!");
             else if (name == "Shahriar" || name == "Sonjoy") Console.WriteLine("You are an SA!");
             else if (name == "Amdadul") Console.WriteLine("You are an SP!");
